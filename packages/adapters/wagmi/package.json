@@ -33,7 +33,7 @@
     "@wagmi/connectors": ">=5.9.9"
   },
   "peerDependencies": {
-    "@wagmi/core": ">=3.0.0",
+    "@wagmi/core": ">=2.22.1",
     "viem": ">=2.43.2",
     "wagmi": ">=2.19.5"
   },
